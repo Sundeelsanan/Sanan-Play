@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sundeel SananPlay - Real Money Gaming</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white">
+  <!-- Hero Section -->
+  <section class="text-center py-20 px-4 bg-gradient-to-r from-purple-700 to-indigo-900">
+    <h1 class="text-5xl font-bold mb-4">Welcome to SananPlay</h1>
+    <p class="text-lg mb-6">Play. Win. Repeat. Real-money gaming redefined in Pakistan.</p>
+    <a href="#download" class="bg-yellow-400 text-black font-bold px-6 py-3 rounded-full hover:bg-yellow-300">Download Now</a>
+  </section>
+
+  <!-- Game Preview Section -->
+  <section class="py-16 px-4">
+    <h2 class="text-3xl font-semibold text-center mb-10">Top Games</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 max-w-6xl mx-auto">
+      <div class="bg-gray-800 p-4 rounded-xl shadow-lg">
+        <img src="https://via.placeholder.com/300x150" alt="Teen Patti" class="rounded mb-3">
+        <h3 class="text-xl font-bold">Teen Patti</h3>
+        <p>Classic 3-card Indian Poker. Bet and win real money!</p>
+      </div>
+      <div class="bg-gray-800 p-4 rounded-xl shadow-lg">
+        <img src="https://via.placeholder.com/300x150" alt="Rummy" class="rounded mb-3">
+        <h3 class="text-xl font-bold">Rummy</h3>
+        <p>Strategic card game with fast-paced action.</p>
+      </div>
+      <div class="bg-gray-800 p-4 rounded-xl shadow-lg">
+        <img src="https://via.placeholder.com/300x150" alt="Slots" class="rounded mb-3">
+        <h3 class="text-xl font-bold">Slot Machines</h3>
+        <p>Spin the wheel and try your luck with jackpot slots!</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Download Section -->
+  <section id="download" class="py-20 px-4 bg-gray-800 text-center">
+    <h2 class="text-3xl font-semibold mb-6">Get the App</h2>
+    <p class="mb-8">Available for Android. Secure & lightweight APK.</p>
+    <a href="#" class="bg-green-500 px-8 py-3 text-white font-bold rounded-full hover:bg-green-400">Download APK</a>
+  </section>
+
+  <!-- Bank Details Section -->
+  <section class="py-16 px-4 bg-gray-900 text-center border-t border-gray-700">
+    <h2 class="text-3xl font-semibold mb-6">Bank & Wallet Details</h2>
+    <div class="max-w-2xl mx-auto text-left text-gray-300">
+      <div class="mb-6">
+        <h3 class="text-xl font-bold text-white mb-2">Bank Transfer</h3>
+        <p><strong>Bank Name:</strong> Allied Bank Limited </p>
+        <p><strong>Account Title:</strong> M Sundeel Sanan awan </p>
+        <p><strong>Account Number:</strong> 09810010055753820017 </p>
+        <p><strong>IBAN:</strong> PK07ABPA0010055753820017 </p>
+      </div>
+      <div class="mb-6">
+        <h3 class="text-xl font-bold text-white mb-2">JazzCash</h3>
+        <p><strong>Account Title:</strong> Sundeel Sanan </p>
+        <p><strong>Number:</strong> 0333-9108269 </p>
+      </div>
+      <div>
+        <h3 class="text-xl font-bold text-white mb-2">EasyPaisa</h3>
+        <p><strong>Account Title:</strong> Sundeel Sanan </p>
+        <p><strong>Number:</strong> 0348-9268676</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 py-10 text-center text-sm text-gray-400">
+    &copy; 2025 Sundeel SananPlay. All rights reserved. | Powered by Sanan Technologies
+  </footer>
+</body>
+</html>
